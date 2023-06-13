@@ -3,6 +3,7 @@ import matplotlib as plt
 
 class Animal_Classification_Neural_Network:
     def __init__(self):
+        
         self.model : tf.keras.Model = tf.keras.applications.mobilenet_v2.MobileNetV2(
             classes=10
         )
