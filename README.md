@@ -1,4 +1,4 @@
-**Animal Classification with MobileNet.**
+<h2>**Animal Classification with MobileNet.**</h2>
 
 This project demonstrates the process of training a deep learning model to classify images of animals using the MobileNet architecture. The model is trained on a dataset of animal images and is capable of predicting the class of a given animal image.
 
