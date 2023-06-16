@@ -1,0 +1,5 @@
+We utilized a dataset of 4000 training images (400 images per class) along with 1000 validation images (100 images per class) to train our model.
+The training process spanned across 10 epochs, resulting in noteworthy outcomes.
+Upon completion of the final epoch, the train loss stood at an impressive 0.0478, while the validation loss settled at 0.2222.
+Moreover, our model achieved a remarkable train accuracy of 0.9847, demonstrating its efficacy in learning from the training data.
+Similarly, the validation accuracy reached a commendable level of 0.9415, indicating the model's ability to perform well on previously unseen data.
