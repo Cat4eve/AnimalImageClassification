@@ -5,6 +5,7 @@ This project demonstrates the process of training a deep learning model to class
 
 Dataset Architecture
 
+<pre>
 animals/
     train/
         class1/
@@ -26,7 +27,7 @@ animals/
             image2.jpg
             ...
         ...
-        
+</pre> 
 
 Model Architecture
 
